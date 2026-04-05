@@ -1,4 +1,4 @@
-# HealthApp
+# AI Healthcare Research and Content Generation System
 
 A **CrewAI-based multi-agent content generation system** focused on the topic of **AI in Healthcare**.
 
